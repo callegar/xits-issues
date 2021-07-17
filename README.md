@@ -1,4 +1,17 @@
-[![Build Status](https://travis-ci.com/alif-type/xits.svg?branch=master)](https://travis-ci.com/alif-type/xits)
+The XITS-issues REPO
+====================
+
+Because development on [aliftype/xits](https://github.com/aliftype/xits) has
+stopped and the repository has been archived, the issue tracker is no more.
+For that reason, not only the fonts are frozen, but recording what can be
+troublesome with them has become hard.
+
+As of today, the sole role of this forked repo is to have an issue tracker where
+to store potential problems with XITS.  No development is currently going on here
+and the sole reason d'etre of the repo is to have an archive of potentially
+troublesome usages of XITS so that one can:
+- know if a problem he/she is experiencing is a known one;
+- maybe find a workaround
 
 The XITS font project
 ======================
